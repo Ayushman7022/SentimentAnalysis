@@ -18,6 +18,7 @@ sklearn.linear_model.LogisticRegression: This is a module for logistic regressio
 sklearn.metrics.accuracy_score: This function computes the accuracy classification score, which is the fraction of correctly classified samples. It's a common metric for evaluating the performance of classification models
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To use this first you need to logn to keggle so that you get your own API or you can dirstly download the dataset then use the code.
 
 This dataset is imported from kaggle which has 1.5 million datasets , having both positive and negative sentiment. 
 
